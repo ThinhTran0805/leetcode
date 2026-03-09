@@ -7,6 +7,8 @@ Hi, I'm **Thinh Tran**.
 I’m passionate about software engineering and algorithms.  
 This repository contains my Java solutions for LeetCode problems.
 
+![LeetCode Stats](https://leetcard.jacoblin.cool/wWm6NUgnl6?theme=light&font=baloo&ext=contest)
+
 ---
 
 # 🚀 LeetCode Solutions (Java)
