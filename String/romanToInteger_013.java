@@ -1,10 +1,9 @@
-package org.example;
 
-public class LC_romanToInt {
+public class romanToInteger_013 {
 
     public static void main(String[] args) {
 
-        LC_romanToInt sol = new LC_romanToInt();
+        romanToInteger_013 sol = new romanToInteger_013();
         String s = "MCMXCIV";
         int result = sol.romanToInt(s);
         System.out.println(result);

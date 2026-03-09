@@ -1,9 +1,8 @@
-package org.example;
 
-public class LC_isPalindrome {
+public class palindromeNumber_009 {
     public static void main(String[] args) {
 
-        LC_isPalindrome solver = new LC_isPalindrome();
+        palindromeNumber_009 solver = new palindromeNumber_009();
         int testNumber = 121;
         boolean result = solver.isPalindrome(testNumber);
         System.out.println("Number " + testNumber + " is Palindrome?\n" + result);

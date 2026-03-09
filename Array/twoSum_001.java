@@ -1,13 +1,11 @@
-package org.example;
 
 import java.util.Arrays;
 import java.util.HashMap;
 import java.util.Map;
 
-public class LC_twoSum {
-
+public class twoSum_001 {
     public static void main(String[] args) {
-        LC_twoSum sol = new LC_twoSum();
+        twoSum_001 sol = new twoSum_001();
         int[] nums = {2, 4, 7, 9};
         int target = 9;
         int[] result = sol.twoSum(nums, target);
