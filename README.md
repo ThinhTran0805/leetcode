@@ -31,6 +31,7 @@ leetcode/
 │
 └── String
     └── RomanToInteger.java
+    └── LongestCommonPrefix.java
 ```
 
 Each directory represents a **problem category**.
@@ -44,6 +45,7 @@ Each directory represents a **problem category**.
 | 1  | Two Sum           | Array    |
 | 9  | Palindrome Number | Math     |
 | 13 | Roman to Integer  | String   |
+| 14 | Longest Common Prefix | String |
 
 ---
 
