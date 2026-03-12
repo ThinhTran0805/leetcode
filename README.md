@@ -53,7 +53,7 @@ Each directory represents a **problem category**.
 
 ## 📈 Progress
 
-Solved problems: **3**
+Solved problems: **4**
 
 Target: **200+ problems**
 
