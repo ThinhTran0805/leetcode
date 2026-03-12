@@ -38,14 +38,9 @@ Each directory represents a **problem category**.
 
 ---
 
-## 📊 Solved Problems
+## Problem List
 
-| #  | Problem           | Category |
-| -- | ----------------- | -------- |
-| 1  | Two Sum           | Array    |
-| 9  | Palindrome Number | Math     |
-| 13 | Roman to Integer  | String   |
-| 14 | Longest Common Prefix | String |
+➡️ [View Problems List](PROBLEMS.md)
 
 ---
 
