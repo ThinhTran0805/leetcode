@@ -6,7 +6,7 @@ public class romanToInteger_013 {
         romanToInteger_013 sol = new romanToInteger_013();
         String s = "MCMXCIV";
         int result = sol.romanToInt(s);
-        System.out.println(result);
+        System.out.println("The value of String " + s + " is: " + result);
     }
 
     private int value(char c){
@@ -18,7 +18,8 @@ public class romanToInteger_013 {
             case 'C': return 100;
             case 'D': return 500;
             case 'M': return 1000;
-            default: return 0;
+            default:
+                throw new IllegalArgumentException("Character " + c + " is not accept!");
         }
     }
 
@@ -38,4 +39,23 @@ public class romanToInteger_013 {
 
         return total;
     }
+
+
+//    //Solution 2: right to left
+//    public int romanToInt (String s) {
+//        int total = 0;
+//        int prev = 0;
+//        for (int i = s.length() - 1; i >= 0; i--) {
+//            int curr = value(s.charAt(i));
+//            if (curr < prev) {
+//                total -= curr;
+//            } else {
+//                total += curr;
+//            }
+//            prev = curr;
+//        }
+//        return total;
+//    }
 }
+
+
