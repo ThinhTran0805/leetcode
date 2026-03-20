@@ -29,6 +29,9 @@ leetcode/
 ├── Math
 │   └── PalindromeNumber.java
 │
+├── Stack
+│   └── ValidParentheses.java
+│
 └── String
     └── RomanToInteger.java
     └── LongestCommonPrefix.java
