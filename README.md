@@ -15,6 +15,7 @@ This repository contains my Java solutions for LeetCode problems.
 
 ![Language](https://img.shields.io/badge/Language-Java-orange)
 ![Platform](https://img.shields.io/badge/Platform-LeetCode-yellow)
+![Status](https://img.shields.io/badge/Status-In%20Progress-green)
 
 ---
 
@@ -24,17 +25,19 @@ This repository contains my Java solutions for LeetCode problems.
 leetcode/
 
 ├── Array
-│   └── TwoSum.java
+│   └── twoSum_001.java
+├── LinkedList
+│   └── mergeTwoLists_021.java
 │
 ├── Math
-│   └── PalindromeNumber.java
+│   └── palindromeNumber_009.java
 │
 ├── Stack
-│   └── ValidParentheses.java
+│   └── validParentheses_020.java
 │
 └── String
-    └── RomanToInteger.java
-    └── LongestCommonPrefix.java
+    └── romanToInteger_014.java
+    └── longestCommonPrefix_013.java
 ```
 
 Each directory represents a **problem category**.
@@ -49,14 +52,15 @@ Each directory represents a **problem category**.
 
 ## 🛠 Tech Stack
 
-* **Language:** Java
+* **Language:** Java 8+
 * **Platform:** LeetCode
+* **IDE:** IntelliJ IDEA (macOS)
 
 ---
 
 ## 📈 Progress
 
-Solved problems: **4**
+Solved problems: **6**
 
 Target: **200+ problems**
 
