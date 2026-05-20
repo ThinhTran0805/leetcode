@@ -26,5 +26,8 @@ public class findIndexOfOccurence_028 {
             }
         }
         return -1;
+
+        //indexOf
+//        return haystack.indexOf(needle);
     }
 }
