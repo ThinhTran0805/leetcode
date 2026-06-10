@@ -1,8 +1,8 @@
 import java.util.Arrays;
 
-public class mergeSortedArray {
+public class mergeSortedArray_088 {
     public static void main(String[] args) {
-        mergeSortedArray sol = new mergeSortedArray();
+        mergeSortedArray_088 sol = new mergeSortedArray_088();
         int[] nums1 = {1, 2, 3, 0, 0, 0};
         int m = 3;
         int[] nums2 = {2, 5, 6};
