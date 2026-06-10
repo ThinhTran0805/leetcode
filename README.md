@@ -26,18 +26,34 @@ leetcode/
 
 ├── Array
 │   └── twoSum_001.java
+│   └── removeDuplicates_026.java
+│   └── removeElement_027.java
+│   └── searchInsertPosition_035.java
+│   └── plusOne_066.java
+│   └── mergeSortedArray_088.java
+│
+├── BinaryTree
+│   └── inorderTravesal_094.java
+│
 ├── LinkedList
-│   └── mergeTwoLists_021.java
+│   └── addTwoNumbers_002.java
+│   └── mergeTwoLists_021.
+│   └── removeDuplicatesSortedList_083.java
 │
 ├── Math
 │   └── palindromeNumber_009.java
+│   └── squareRoot_069.java
+│   └── climbingStairs_070.java
 │
 ├── Stack
 │   └── validParentheses_020.java
 │
 └── String
-    └── romanToInteger_014.java
-    └── longestCommonPrefix_013.java
+│   └── romanToInteger_014.java
+│   └── longestCommonPrefix_013.java
+│   └── findIndexOfOccurence_028.java
+│   └── lengthOfLastWord_058.java
+│   └── addBinary_067.java
 ```
 
 Each directory represents a **problem category**.
@@ -60,7 +76,7 @@ Each directory represents a **problem category**.
 
 ## 📈 Progress
 
-Solved problems: **6**
+Solved problems: **19**
 
 Target: **200+ problems**
 
