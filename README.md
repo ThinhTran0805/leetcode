@@ -80,7 +80,7 @@ Each directory represents a **problem category**.
 
 ## 📈 Progress
 
-Solved problems: **19**
+Solved problems: **23**
 
 Target: **200+ problems**
 
