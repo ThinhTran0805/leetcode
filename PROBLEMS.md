@@ -1,18 +1,19 @@
 # Solved LeetCode Problems
 
-| #   | Problem                     | Solution                                            | Category |
-|-----|-----------------------------|-----------------------------------------------------|--------|
-| 1   | Two Sum                     | [Java](Array/twoSum_001.java)                       | Array  |
-| 26  | Remove Duplicates           | [Java](Array/removeDuplicates_026.java)             | Array  |
-| 27  | Remove Element              | [Java](Array/removeElement_027.java)                | Array  |
-| 35  | Search Insert Position      | [Java](Array/searchInsertPosition_035.java)         | Array  |
-| 66  | Plus One                    | [Java](Array/plusOne_066.java)                      | Array  |
-| 88  | Merge Sorted Array          | [Java](Array/mergeSortedArray_088.java)             | Array  |
-| 94  | Inorder Traversal           | [Java](BinaryTree/inorderTraversal_094.java)        | Binary Tree |
-| 100 | Same Tree                   | [Java](BinaryTree/sameTree_100.java)                | Binary Tree |
-| 101 | Symmetric Tree              | [Java](BinaryTree/symmetricTree_101.java)           | Binary Tree |
-| 104 | Maximum Depth               | [Java](BinaryTree/maximumDepth_104.java)            | Binary Tree |
-| 108 | Convert Sorted Array To BST | [Java](BinaryTree/convertSortedArrayToBST_108.java) | Binary Tree |
+| #   | Problem                       | Solution                                               | Category |
+|-----|-------------------------------|--------------------------------------------------------|--------|
+| 1   | Two Sum                       | [Java](Array/twoSum_001.java)                          | Array  |
+| 26  | Remove Duplicates             | [Java](Array/removeDuplicates_026.java)                | Array  |
+| 27  | Remove Element                | [Java](Array/removeElement_027.java)                   | Array  |
+| 35  | Search Insert Position        | [Java](Array/searchInsertPosition_035.java)            | Array  |
+| 66  | Plus One                      | [Java](Array/plusOne_066.java)                         | Array  |
+| 88  | Merge Sorted Array            | [Java](Array/mergeSortedArray_088.java)                | Array  |
+| 94  | Inorder Traversal             | [Java](BinaryTree/inorderTraversal_094.java)           | Binary Tree |
+| 100 | Same Tree                     | [Java](BinaryTree/sameTree_100.java)                   | Binary Tree |
+| 101 | Symmetric Tree                | [Java](BinaryTree/symmetricTree_101.java)              | Binary Tree |
+| 104 | Maximum Depth                 | [Java](BinaryTree/maximumDepth_104.java)               | Binary Tree |
+| 108 | Convert Sorted Array To BST   | [Java](BinaryTree/convertSortedArrayToBST_108.java)    | Binary Tree |
+| 110 | Balanced Binary Tree          | [Java](BinaryTree/balancedBinaryTree_110.java)         | Binary Tree |
 | 9   | Palindrome Number             | [Java](Math/palindromeNumber_009.java)                 | Math   |
 | 69  | Square Root                   | [Java](Math/squareRoot_069.java)                       | Math   |
 | 70  | Climbing Stairs               | [Java](Math/climbingStairs_070.java)                   | Math   |
