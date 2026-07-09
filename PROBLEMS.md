@@ -23,6 +23,7 @@
 | 28  | Find Index of Occurence       | [Java](String/findIndexOfOccurence_028.java)           | String |
 | 58  | Length of Last Word           | [Java](String/lengthOfLastWord_58.java)                | String |
 | 67  | Add Binary                    | [Java](String/addBinary_067.java)                      | String |
+| 5   | Longest Palindromic Substring | [Java](String/longestPalindromicSubstring_005.java)    | String |
 | 20  | Valid Parentheses             | [Java](Stack/validParentheses_020.java)                | Stack  |
 | 21  | Merge Two Lists               | [Java](LinkedList/mergeTwoLists_021.java)              | LinkedList |
 | 2   | Add Two Numbers               | [Java](LinkedList/addTwoNumbers_002.java)              | LinkedList |
