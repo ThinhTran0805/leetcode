@@ -10,6 +10,7 @@
 | 88  | Merge Sorted Array                  | [Java](Array/mergeSortedArray_088.java)                | Array  |
 | 3   | Length of Longest Substring         | [Java](Array/lengthOfLongestSubstring_003.java)        | Array  |
 | 3.2 | Length of Longest Substring_Hashmap | [Java](Array/Approach2_Hashmap_003.java)               | Array  |
+| 118 | Pascal's Triangle                   | [Java](Array/pascalsTriangle_118.java)                 | Array  |
 | 94  | Inorder Traversal                   | [Java](BinaryTree/inorderTraversal_094.java)           | Binary Tree |
 | 100 | Same Tree                           | [Java](BinaryTree/sameTree_100.java)                   | Binary Tree |
 | 101 | Symmetric Tree                      | [Java](BinaryTree/symmetricTree_101.java)              | Binary Tree |
