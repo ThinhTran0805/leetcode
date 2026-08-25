@@ -17,6 +17,7 @@
 | 104 | Maximum Depth                       | [Java](BinaryTree/maximumDepth_104.java)               | Binary Tree |
 | 108 | Convert Sorted Array To BST         | [Java](BinaryTree/convertSortedArrayToBST_108.java)    | Binary Tree |
 | 110 | Balanced Binary Tree                | [Java](BinaryTree/balancedBinaryTree_110.java)         | Binary Tree |
+| 112 | Path Sum                            | [Java](BinaryTree/pathSum_112.java)                    | Binary Tree |
 | 9   | Palindrome Number                   | [Java](Math/palindromeNumber_009.java)                 | Math   |
 | 69  | Square Root                         | [Java](Math/squareRoot_069.java)                       | Math   |
 | 70  | Climbing Stairs                     | [Java](Math/climbingStairs_070.java)                   | Math   |
